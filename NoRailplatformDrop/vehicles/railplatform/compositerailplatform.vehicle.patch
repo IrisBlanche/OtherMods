@@ -1,0 +1,4 @@
+[
+{"op" : "add", "path" : "/interactive", "value" : false},
+{"op" : "replace", "path" : "/popOnInteract", "value" : false}
+]

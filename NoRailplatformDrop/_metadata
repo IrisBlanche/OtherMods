@@ -1,0 +1,10 @@
+{
+  "author" : "Iris Blanche",
+  "description" : "Railplatforms are no longer interactive. So they can't drop by accidently pressing E. If you want to drop them you will have to cut the rail.\n\n~ Iris ~",
+  "friendlyName" : "No railplatform interaction",
+  "link" : "steam://url/CommunityFilePage/742185823",
+  "name" : "No railplatform interaction",
+  "priority" : 1,
+  "steamContentId" : "742185823",
+  "version" : "1.0"
+}

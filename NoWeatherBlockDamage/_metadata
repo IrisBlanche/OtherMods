@@ -1,0 +1,10 @@
+{
+  "author" : "Iris Blanche",
+  "description" : "No Weather Blockdamage does what it says: it prevents any kind of weather from destroying blocks. But beware: the effects can still kill you.\nWeather types included\n- Small meteors\n- Large meteors\n- Cinderstorms (aka Ember)\n\n~ Iris ~",
+  "friendlyName" : "No Weather Blockdamage",
+  "link" : "steam://url/CommunityFilePage/735010240",
+  "name" : "No Weather Blockdamage",
+  "priority" : 999997,
+  "steamContentId" : "735010240",
+  "version" : "1.0.4"
+}
