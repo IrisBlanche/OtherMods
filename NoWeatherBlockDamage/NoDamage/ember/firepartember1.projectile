@@ -1,39 +1,78 @@
 {
-  "projectileName" : "firepartember1",
-  "physics" : "firespread",
-  "bounces" : -1,
-  "timeToLive" : 7,
-  "speed" : 30,
-  "image" : "firepartember1.png",
-  "animationCycle" : 0.55,
-  "lightColor" : [235, 126, 2],
-  "frameNumber" : 4,
-  "emitters" : [ "fireflames" ],
-  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
-  "hydrophobic" : true,
-  "actionOnReap" : [
-    {
-      "action" : "config",
-      "file" : "/NoDamage/ember/ember_iris.config"
-    },
-    {
-      "action" : "projectile",
-      "type" : "firepartember2",
-      "fuzzAngle" : 0,
-      "inheritDamageFactor" : 0.0,
-      "angleAdjust" : 35
-    },
-    {
-      "action" : "projectile",
-      "type" : "firepartember2",
-      "fuzzAngle" : 0,
-      "inheritDamageFactor" : 0.0,
-      "angleAdjust" : -35
-    }
-  ],
-  "damageKind" : "fire",
-  "damageKindImage" : "/interface/statuses/fire.png",
-  "statusEffects" : [
-    "burning"
-  ]
+	"projectileName": "firepartember1",
+	"physics": "firespread",
+	"bounces": -1,
+	"timeToLive": 7,
+	"speed": 30,
+	"image": "firepartember1.png",
+	"animationCycle": 0.55,
+	"lightColor": [
+		235,
+		126,
+		2
+	],
+	"frameNumber": 4,
+	"emitters": [
+		"fireflames"
+	],
+	"damagePoly": [
+		[
+			-9,
+			0
+		],
+		[
+			-6,
+			-6
+		],
+		[
+			0,
+			-9
+		],
+		[
+			6,
+			-6
+		],
+		[
+			9,
+			0
+		],
+		[
+			6,
+			6
+		],
+		[
+			0,
+			9
+		],
+		[
+			-6,
+			6
+		]
+	],
+	"hydrophobic": true,
+	"actionOnReap": [
+		{
+			"action": "config",
+			"file": "/NoDamage/ember/ember_iris.config"
+		},
+		{
+			"action": "projectile",
+			"type": "firepartember2",
+			"fuzzAngle": 0,
+			"inheritDamageFactor": 0.0,
+			"angleAdjust": 35
+		},
+		{
+			"action": "projectile",
+			"type": "firepartember2",
+			"fuzzAngle": 0,
+			"inheritDamageFactor": 0.0,
+			"angleAdjust": -35
+		}
+	],
+	"damageKind": "fire",
+	"damageKindImage": "/interface/statuses/fire.png",
+	"statusEffects": [
+		"burning"
+	]
 }

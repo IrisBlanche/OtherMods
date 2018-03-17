@@ -1,4 +1,12 @@
 [
-{"op" : "replace", "path" : "/actionOnReap/0/file", "value" : "/NoDamage/ember/ember_iris.config"},
-{"op" : "replace", "path" : "/actionOnReap/1/type", "value" : "firepartember1"}
+	{
+		"op": "replace",
+		"path": "/actionOnReap/0/file",
+		"value": "/NoDamage/ember/ember_iris.config"
+	},
+	{
+		"op": "replace",
+		"path": "/actionOnReap/1/type",
+		"value": "firepartember1"
+	}
 ]

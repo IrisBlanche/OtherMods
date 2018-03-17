@@ -1,10 +1,17 @@
 {
-  "input" : [
-    { "item" : "logblock", "count" : 5 }
-  ],
-  "output" : {
-    "item" : "coalore",
-    "count" : 1
-  },
-  "groups" : [ "craftingfurnace", "ingredients", "all" ]
+	"input": [
+		{
+			"item": "logblock",
+			"count": 5
+		}
+	],
+	"output": {
+		"item": "coalore",
+		"count": 1
+	},
+	"groups": [
+		"craftingfurnace",
+		"ingredients",
+		"all"
+	]
 }
