@@ -1,9 +1,10 @@
 {
-	"author": "Iris Blanche",
-	"description": "This mod adds a recipe to the furnace in the ingredients tab for converting 5 wooden logs to 1 coal. This is an alternate version to the 10:1 version.\n\n~ Iris ~",
-	"friendlyName": "Wood to Coal 5:1",
-	"link": "steam://url/CommunityFilePage/733958453",
-	"name": "Wood to Coal 5:1",
-	"steamContentId": "733958453",
-	"version": "1.01"
+  "author" : "Iris Blanche",
+  "description" : "This mod adds a recipe to the furnace in the ingredients tab for converting 5 wooden logs to 1 coal. This is an alternate version to the 10:1 version.\n\n~ Iris ~",
+  "friendlyName" : "Wood to Coal 5:1",
+  "link" : "steam://url/CommunityFilePage/733958453",
+  "name" : "Wood to Coal 5:1",
+  "steamContentId" : "733958453",
+  "tags" : "Crafting and Building",
+  "version" : "1.01"
 }
